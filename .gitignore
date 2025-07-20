@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local settings
+*.local
+.env
+
+/deb-build/
+*.changes
+*.buildinfo
+*.dsc
+*.tar.*
